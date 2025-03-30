@@ -1,4 +1,6 @@
-# 简洁聊天室BY CRWorld
+# 简洁聊天室
+
+##BY CRWorld
 
 一个基于PHP和JavaScript开发的轻量级实时多人聊天室系统，具有简洁的界面和流畅的用户体验。
 
