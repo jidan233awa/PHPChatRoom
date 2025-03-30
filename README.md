@@ -40,16 +40,20 @@
 - 前端：HTML5、CSS3、JavaScript
 - 后端：PHP
 - 数据存储：JSON文件
-- UI框架：原生CSS（毛玻璃效果）
+- UI框架：CSS
 
 ## 主要特性
 
 - 实时消息推送
 - 用户在线状态监测
 - 安全的用户认证系统
-- 优雅的界面设计
+- 优美的界面设计
 - 简单的部署方式
 
 ## 开源协议
 
 本项目基于 GNU General Public License v3.0 开源协议。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jidan233awa/PHPChatRoom&type=Date)](https://www.star-history.com/#jidan233awa/PHPChatRoom&Date)
